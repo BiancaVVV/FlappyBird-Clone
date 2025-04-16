@@ -1,4 +1,7 @@
 # FlappyBird-Clone<br>
+<img width="398" alt="Screenshot 2025-04-16 at 20 35 41" src="https://github.com/user-attachments/assets/a8233efa-2ee2-4817-a653-c2eaba98e4b2" /><br>
+
+
 <img width="317" alt="Screenshot 2025-04-03 at 14 58 01" src="https://github.com/user-attachments/assets/880d80f1-e288-4c5c-8288-f427c958308e" /><br>
 <img width="392" alt="Screenshot 2025-04-03 at 14 57 31" src="https://github.com/user-attachments/assets/19e0bcb2-76c5-408a-81c7-a0c869899c0b" /><br>
 
